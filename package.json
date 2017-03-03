@@ -1,0 +1,28 @@
+{
+  "name": "rectangle",
+  "version": "1.0.0",
+  "description": "calculate the area and circumference of a rectangle",
+  "main": "rectangle.js",
+  "scripts": {
+    "test": "node ./node_modules/.bin/mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/12301068JiangDongyu/rectangle.git"
+  },
+  "keywords": [
+    "rectangle",
+    "area",
+    "circumference"
+  ],
+  "author": "yuna68",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/12301068JiangDongyu/rectangle/issues"
+  },
+  "homepage": "https://github.com/12301068JiangDongyu/rectangle#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
